@@ -4,7 +4,8 @@
 */
 package org.roundpicker.adapter;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNull;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,9 +16,9 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.robolectric.Robolectric;
 import org.robolectric.RobolectricTestRunner;
-import org.roundpicker.MainActivity;
-import org.roundpicker.R;
 import org.roundpicker.model.RoundPickerElem;
+import org.roundpicker.roundpickerapp.MainActivity;
+import org.roundpicker.roundpickerapp.R;
 
 import android.graphics.drawable.Drawable;
 

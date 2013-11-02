@@ -2,7 +2,7 @@
  * MainActivity.java
  * Creation at : 17 oct. 2013 23:38:46
 */
-package org.roundpicker;
+package org.roundpicker.roundpickerapp;
 
 import android.os.Bundle;
 import android.app.Activity;
